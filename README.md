@@ -1,5 +1,5 @@
-# robotics
-This repo conists of robotics projects and pcb designs
+# Self Balancing Robot PCB Board Powered by JLCPCB.COM
+This repo conists of robotics project NON-Arduino version Self balancing robot PCB
 
 # How to upload ?
 1. Clone or download the gerber file from this repo
