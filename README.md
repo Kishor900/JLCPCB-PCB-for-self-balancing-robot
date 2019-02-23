@@ -15,7 +15,7 @@ JLCPCB professional team will verify your gerber files within an hour
 Once verified they will ship your order that should reach you within 10-15 working days
 
 # How to modify schematic and brd ?
-To edit my schematic you are going to Autodesk Eagle CAD software. Once installed, open my brd and schematic file and import them to a project.
+To edit my schematic you are going to need Autodesk Eagle CAD software. Once installed, open my brd and schematic file and import them to a project.
 
 
 
